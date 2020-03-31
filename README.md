@@ -1,3 +1,5 @@
+README
+
 A program that uses webscraping for automating tasks such as saving photos.
 This should help save a lot of time instead of constantly right-click and save.
 
