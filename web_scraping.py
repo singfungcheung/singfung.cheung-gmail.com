@@ -1,10 +1,31 @@
-Initialized empty Git repository in C:/Users/Sing Fung/Desktop/Developer/Python/web_scraping/.git/
-On branch master
+import urllib.request
+from bs4 import BeautifulSoup
+import requests
 
-No commits yet
+def dl_img(url, file_path, file_name):
+	full_path = file_path + file_name + ".jpg"
+	urllib.request.urlretrieve(url, full_path)
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	web_scraping.py
 
-nothing added to commit but untracked files present (use "git add" to track)
+img_url = "http://www.ayodelecasel.com/headshots"#input("Enter the URL: ")
+
+webpage_response = requests.get(img_url)
+webpage = webpage_response.content
+#soup = BeautifulSoup(webpage, "html.parser")
+soup = BeautifulSoup(webpage,"html.parser")
+count = 1
+for img in soup.findAll("img"):
+	temp = img.get("src")
+	print(temp)
+	if temp[:1] == "/":
+		if img_url[-1] == "/":
+			image = img_url[:-1] + temp
+		else:
+			image = img_url + temp
+	else:
+		image = temp
+	#if "jpg" not in image:
+		#continue
+	#else:
+	dl_img(image,"images/","image" + str(count))
+	count += 1
