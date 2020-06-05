@@ -4,6 +4,7 @@ A program that uses <a href = "https://www.python.org/" target = "_blank">Python
 Right-clicking and saving each individual images from a website can be very tedious and time consuming. 
 
 Here is how it works:
+<br>
 First, we have the program, which looks like this.
 
 <p align = "center">
