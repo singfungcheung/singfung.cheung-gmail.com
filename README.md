@@ -34,4 +34,4 @@ Finally, the program will perform its magic and we can see from the image below 
 Happy webscraping!
 
 <h2>IMPORTANT</h2>
-<h3>By using this program, you agree that you will not use this software for commercial purposes and that you should always respect the owners of the photos you save. I am not responsible for any file alteration, deletion, modification, or any other mishaps you may come across from using this program.</h3>
+<h3>By using this program, you agree that you will not use this software for commercial purposes and that you will always respect the owners of the photos you save. I am not responsible for any file alteration, deletion, modification, or any other mishaps you may come across from using this program.</h3>
