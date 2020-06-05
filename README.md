@@ -3,6 +3,13 @@
 A program that uses <a href = "https://www.python.org/" target = "_blank">Python</a> and webscraping for automating the task of saving photos.
 Right-clicking and saving each individual images from a website can be very tedious and time consuming. 
 
+Here is how it works:
+First, we have the program, which looks like this.
+
+<p align = "center">
+  <img src = "Images/final_product.jpg" width = 400 height = 400>
+</p>
+
 Happy webscraping!
 
 <h2>IMPORTANT</h2>
