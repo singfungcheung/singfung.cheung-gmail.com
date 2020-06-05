@@ -7,7 +7,7 @@ Here is how it works:
 First, we have the program, which looks like this.
 
 <p align = "center">
-  <img src = "Images/final_product.jpg" width = 400 height = 400>
+  <img src = "images/software.PNG" width = 500 height = 300>
 </p>
 
 Happy webscraping!
