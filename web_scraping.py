@@ -11,7 +11,7 @@ from os.path import isfile, join
 HEIGHT = 250
 WIDTH = 600
 
-file_name_characters_check = r'\/:*?"<>|'
+file_name_characters_check = r'\ / : * ? " < > |'
 ########################### Functions ##############################
 def folder_input():
 	print(entry_folder.get())
