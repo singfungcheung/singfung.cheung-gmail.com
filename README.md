@@ -21,7 +21,16 @@ After selecting the destination, copy and paste a URL into the <strong>Enter Web
 </p>
 <h2>Note</h2>
 It should be noted that this program only works well with static websites (all the images already loaded). With sites that use <a href = "https://www.javascript.com/" target = "_blank">Javascript</a> and "<a href = "https://en.wikipedia.org/wiki/Lazy_loading" target = "_blank">lazy loading<a>", this program will not work well.
-Next, type in 
+<p align = "center">
+  <img src = "images/image_name.PNG" width = 500 height = 300>
+</p>
+Next, type in the name for the images you want to be saved in the <strong>Enter Image Name</strong> box. The program will automatically append numbers lexicographically to the image name for each photo detected on the website (we will see what that means in the next example.
+
+Finally, the program will perform its magic and we can see from the image below that all the images are saved and numbered lexicographically (00,01,02,03, ...). 
+<p align = "center">
+  <img src = "images/pic_result.PNG" width = 500 height = 300>
+</p>
+
 Happy webscraping!
 
 <h2>IMPORTANT</h2>
