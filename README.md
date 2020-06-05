@@ -20,7 +20,7 @@ After selecting the destination, copy and paste a URL into the <strong>Enter Web
   <img src = "images/web_link.PNG" width = 500 height = 300>
 </p>
 <h2>Note</h2>
-It should be noted that this program only works well with static websites (all the images already loaded). With sites that use <a href = "https://www.javascript.com/" target = "_blank">Javascript</a> and "<a href = "https://en.wikipedia.org/wiki/Lazy_loading" target = "_blank">lazy loading<a>", this program will not work well.
+It should be noted that this program only works well with static websites (all the images already loaded). With sites that use <a href = "https://www.javascript.com/" target = "_blank">Javascript</a>'s "<a href = "https://en.wikipedia.org/wiki/Lazy_loading" target = "_blank">lazy loading<a>", this program will not work well.
 <p align = "center">
   <img src = "images/image_name.PNG" width = 500 height = 300>
 </p>
