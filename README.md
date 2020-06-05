@@ -28,7 +28,7 @@ Next, type in the name for the images you want to be saved in the <strong>Enter 
 
 Finally, the program will perform its magic and we can see from the image below that all the images are saved and numbered lexicographically (00,01,02,03, ...). 
 <p align = "center">
-  <img src = "images/pic_result.PNG" width = 500 height = 300>
+  <img src = "images/pic_result.PNG" width = 700 height = 500>
 </p>
 
 Happy webscraping!
