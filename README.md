@@ -1,6 +1,5 @@
 # README
-<a href = "https://drive.google.com/file/d/1QZV7oWAcyDuNjX4PQx7VulIZuqDL2Wje/view?usp=sharing" target = "_blank">Download here</a><br>
-Note from June 4, 2020<br>
+Note from June 4, 2020
 This is a program that uses <a href = "https://www.python.org/" target = "_blank">Python</a> and <a href = "https://en.wikipedia.org/wiki/Web_scraping" target = "_blank">webscraping</a> for automating the task of saving photos.
 Because right-clicking and saving each individual images from a website can be very tedious and time consuming, I hope this program will help with saving some time.
 
